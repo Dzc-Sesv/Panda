@@ -1,0 +1,10 @@
+function:=int asd()
+{
+	if(a == 10)
+	{
+
+	}else{
+		return;
+	}
+	return;
+}
